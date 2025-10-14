@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @adnanfez
-- 👀 I’m interested in Robotics
 - 🌱 I’m currently learning MSc Electronics
-- 💞️ I’m looking to collaborate on Robotics work
 - 📫 How to reach me wa.me/+918606555649
 - ⚡ Fun fact: Adrenaline junkie
 
