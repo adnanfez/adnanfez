@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnanfez
 - 🌱 I’m currently learning MSc Electronics
 - 📫 How to reach me wa.me/+918606555649
-- ⚡ Fun fact: Adrenaline junkie
+- ⚡ Fun fact: Code it till you mod it
 
 <!---
 adnanfez/adnanfez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
