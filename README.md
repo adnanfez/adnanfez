@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adnanfez
-- 🌱 I’m currently learning MSc Electronics
-- 📫 How to reach me wa.me/+918606555649
+- 📫 How to reach me wa.me/+918606555649 or adnanfaya@gmail.com
 - ⚡ Fun fact: Code it till you mod it
 
 <!---
